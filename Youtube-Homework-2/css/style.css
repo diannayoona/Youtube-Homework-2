@@ -1,0 +1,100 @@
+#hamburger {
+  max-height: 20px;
+}
+
+.icon {
+  max-height: 35px;
+  padding-top:5px;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.navbar {
+  border-bottom: 1px solid #cfcfcf;
+  padding: 10px;
+  padding-left: 10px;
+  margin-bottom: 5px;
+}
+
+.logo {
+  max-height: 50px;
+  display:inline;
+  margin-left:8px;
+}
+
+.search {
+    border: 1px solid #cfcfcf;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 7px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.menu-item {
+  max-height: 40px
+  max-width: 100px;
+  text-align: center;
+  padding:8px;
+  display: inline-block;
+
+}
+
+.menu {
+    border-bottom: 1px solid #cfcfcf;
+    padding-left: 45%;
+
+}
+
+#home {
+  border-bottom: 3px solid red;
+}
+
+#trending, #subs{ 
+color: gray }
+
+.gray {
+  background-color: #ebebeb;
+  height: 1000px;
+}
+
+#ad {
+width: 80%;
+margin-left: 10%;
+margin-top: 10px;
+margin-bottom:10px
+}
+
+.white-box {
+  background-color: white;
+  padding-right: 2%;
+  padding-left: 2%;
+  padding-top:5px;
+  margin-right: 8%;
+  margin-left: 8%;
+}
+
+.card-img-top{
+  width: 100%;
+}
+
+.card {
+  display: inline-block;
+  width: 19%;
+}
+
+.card-title {
+  color: #2483d6;
+}
+
+.card-text {
+  color: gray;
+  font-size: 12px;
+}
+
+.show-more {
+  text-align: right;
+  color: #2483d6;
+  font-size: 14px
+}
